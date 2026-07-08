@@ -3,7 +3,7 @@
     "id": "proj-agrisense",
     "title": "Agrisense",
     "slug": "agrisense",
-    "thumbnail": "",
+    "thumbnail": "/img/projects/agrisense.png",
     "shortDescription": "An agricultural monitoring platform developed during my internship at PT Makerindo Prima Solusi.",
     "problem": "There was a need for a reliable system to track and visualize environmental data for precision agriculture.",
     "solution": "Contributed as a developer during my internship, focusing on building features that process and display data effectively for end-users.",
