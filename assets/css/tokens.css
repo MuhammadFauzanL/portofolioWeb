@@ -1,0 +1,24 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer components {
+  /* Primary button — true parallelogram */
+  .btn-primary {
+    clip-path: polygon(16px 0, 100% 0, calc(100% - 16px) 100%, 0 100%);
+  }
+
+  /* Project card / image frame — single cut corner */
+  .card-cut-corner {
+    clip-path: polygon(0 0, 100% 0, 100% calc(100% - 24px), calc(100% - 24px) 100%, 0 100%);
+  }
+
+  /* Small tags / eyebrow labels — subtle cut on both short edges */
+  .tag-angled {
+    clip-path: polygon(8px 0, 100% 0, calc(100% - 8px) 100%, 0 100%);
+  }
+}
+
+body {
+  @apply font-sans text-ink-black bg-paper-white antialiased;
+}

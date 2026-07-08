@@ -1,0 +1,48 @@
+{
+  "categories": [
+    {
+      "name": "Languages",
+      "items": [
+        { "name": "HTML & CSS" },
+        { "name": "JavaScript & TypeScript" },
+        { "name": "PHP" },
+        { "name": "Python" },
+        { "name": "Dart" },
+        { "name": "Kotlin" },
+        { "name": "SQL" }
+      ]
+    },
+    {
+      "name": "Frameworks",
+      "items": [
+        { "name": "Laravel" },
+        { "name": "Node.js & Express" },
+        { "name": "Flask" },
+        { "name": "Tailwind CSS" },
+        { "name": "Bootstrap" },
+        { "name": "Flutter" }
+      ]
+    },
+    {
+      "name": "Data & AI",
+      "items": [
+        { "name": "Machine Learning" },
+        { "name": "Deep Learning" },
+        { "name": "Data Analysis" },
+        { "name": "Jupyter Notebook" },
+        { "name": "RapidMiner" },
+        { "name": "IoT" }
+      ]
+    },
+    {
+      "name": "Tools & Databases",
+      "items": [
+        { "name": "PostgreSQL & MySQL" },
+        { "name": "MongoDB" },
+        { "name": "Git & GitHub" },
+        { "name": "Figma" },
+        { "name": "Ubidots" }
+      ]
+    }
+  ]
+}

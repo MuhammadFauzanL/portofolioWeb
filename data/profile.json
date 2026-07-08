@@ -1,0 +1,103 @@
+{
+  "name": "Muhammad Fauzan Lubada",
+  "role": "Web Developer & Data Engineer",
+  "tagline": "Specializing in the intersection of Web Development and Data Engineering.",
+  "location": "Bandung, Indonesia",
+  "email": "fauzanlubada5@gmail.com",
+  "cvFile": "#",
+  "socials": {
+    "github": "https://github.com/FauzanLubada",
+    "linkedin": "https://www.linkedin.com/in/muhammad-lubada160104/"
+  },
+  "aboutParagraphs": [
+    "I am a highly motivated 6th-semester Informatics Engineering student at UIN Sunan Gunung Djati Bandung with a 3.83/4.00 GPA, specializing in the intersection of Web Development and Data Engineering.",
+    "I possess a proven track record of delivering end-to-end technical solutions—from developing full-stack web applications to deploying machine learning models—validated through rigorous industry programs like IBM SkillsBuild, Dicoding, and Samsung Innovation Campus.",
+    "I am driven by a continuous curiosity to explore emerging technologies, adapt to new frameworks, and collaborate on innovative, data-driven projects."
+  ],
+  "stats": [
+    { "label": "GPA", "value": "3.83" },
+    { "label": "Certifications", "value": "8+" },
+    { "label": "Projects", "value": "4+" }
+  ],
+  "experience": [
+    {
+      "title": "Intern Full Stack AI Developer",
+      "company": "PT Makerindo Prima Solusi",
+      "location": "Bandung",
+      "period": "April 2026 — Present",
+      "description": "Developing and integrating full-stack AI solutions for enterprise applications."
+    },
+    {
+      "title": "Cohort AI Engineer",
+      "company": "Pijak in Collaboration with IBM SkillsBuild",
+      "location": "Bandung",
+      "period": "Feb 2026 — July 2026",
+      "description": "Strengthened core software development and engineered four constraint-based recommendation models into MuterBandung—an intelligent tourism platform."
+    },
+    {
+      "title": "Data & MLOps Graduate",
+      "company": "Asah led by Dicoding & Accenture",
+      "location": "Bandung",
+      "period": "Aug 2025 — Jan 2026",
+      "description": "Advanced technical expertise across Data Analysis, Machine Learning, and Deep Learning. Collaborated on a capstone incorporating MLOps methodologies."
+    },
+    {
+      "title": "IoT & Full Stack Developer",
+      "company": "Samsung Innovation Campus Stage 1 & 2",
+      "location": "Bandung",
+      "period": "Dec 2024 — Feb 2025",
+      "description": "Engineered AquaGuard IoT. Developed a Flask API, MongoDB Atlas routing, Ubidots dashboards, and 3D conceptual prototypes via Figma & Vectary 3D."
+    },
+    {
+      "title": "Full Stack Web Developer",
+      "company": "Jabar Digital Academy Fase 2",
+      "location": "Bandung",
+      "period": "Feb 2024 — Jul 2024",
+      "description": "Built a strong foundation in HTML, CSS, PHP logic, and progressed to advanced web development using Laravel framework."
+    }
+  ],
+  "education": [
+    {
+      "degree": "Bachelor of Informatics Engineering",
+      "institution": "Universitas Islam Negeri Sunan Gunung Djati",
+      "location": "Bandung",
+      "period": "Aug 2023 — Present",
+      "description": "6th-semester student with a 3.83/4.00 GPA."
+    },
+    {
+      "degree": "Senior High School (Science)",
+      "institution": "SMA Negeri 1 Sumedang",
+      "location": "Bandung",
+      "period": "Jun 2019 — May 2022",
+      "description": "Studied core science subjects while developing analytical thinking and problem-solving skills."
+    }
+  ],
+  "certifications": [
+    {
+      "title": "Gold Medal at NICYMS 2026",
+      "issuer": "NICYMS",
+      "date": "April 2026",
+      "description": "Developed a halal product traceability and auditing system on the Base L2 blockchain."
+    },
+    {
+      "title": "BNSP Certification Associate Data Scientist",
+      "issuer": "Badan Nasional Sertifikasi Profesi",
+      "date": "Oct 2025"
+    }
+  ],
+  "courses": [
+    { "title": "Belajar Fundamental Deep Learning", "issuer": "Dicoding Indonesia", "period": "Dec 2025 — Dec 2028" },
+    { "title": "Belajar Machine Learning untuk Pemula", "issuer": "Dicoding Indonesia", "period": "Oct 2025 — Oct 2028" },
+    { "title": "Belajar Fundamental Analisis Data", "issuer": "Dicoding Indonesia", "period": "Feb 2026 — Feb 2029" },
+    { "title": "Belajar Dasar Git dengan GitHub", "issuer": "Dicoding Indonesia", "period": "Jan 2026 — Jan 2029" },
+    { "title": "Membuat Rest API dengan Python", "issuer": "Udemy", "period": "Apr 2025 — Apr 2025" },
+    { "title": "Memulai Pemrograman Dengan Java", "issuer": "Dicoding Indonesia", "period": "Apr 2025 — Apr 2028" },
+    { "title": "Belajar Dasar Structured Query Language (SQL)", "issuer": "Dicoding Indonesia", "period": "Jul 2024 — Jul 2027" },
+    { "title": "Belajar Dasar Pemrograman Web", "issuer": "Dicoding Indonesia", "period": "Feb 2024 — Mar 2027" }
+  ],
+  "communities": [
+    { "role": "Member", "name": "Sabit Community", "location": "Bandung", "period": "Oct 2025 - Present" },
+    { "role": "Member", "name": "Dicoding UIN Sunan Gunung Djati", "location": "Bandung", "period": "Aug 2025 - Present" },
+    { "role": "Member", "name": "Super Team Campus", "location": "Bandung", "period": "Aug 2020 - Present" }
+  ]
+}
