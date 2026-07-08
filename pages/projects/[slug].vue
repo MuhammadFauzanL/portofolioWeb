@@ -20,9 +20,12 @@
           <h1 class="font-display text-4xl md:text-5xl font-bold text-ink-black tracking-tight mb-6">
             {{ project.title }}
           </h1>
-          <p class="font-sans text-xl text-ink-black/80 leading-relaxed">
+          <p class="font-sans text-xl text-ink-black/80 leading-relaxed mb-8">
             {{ project.shortDescription }}
           </p>
+          <div v-if="project.thumbnail" class="w-full aspect-video bg-hairline border border-hairline card-cut-corner overflow-hidden">
+            <img :src="project.thumbnail" :alt="project.title" class="w-full h-full object-cover" loading="lazy" />
+          </div>
         </header>
         
         <!-- Tags & Links -->
